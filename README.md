@@ -1,4 +1,4 @@
-# [HTML parser](https://appseed.us/?ref=html-parser)
+# [HTML parser](https://appseed.us/developer-tools/html-parser)
 
 Interactive tool to convert flat HTML (themes or stand-alone files) to <a href="https://pugjs.org/api/getting-started.html">Pug</a>, <a href="http://jinja.pocoo.org/docs/2.10/">Jinja2</a> and <a href="https://laravel.com/docs/5.8/blade">Blade</a> templates. 
 

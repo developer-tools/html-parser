@@ -131,10 +131,4 @@ All are open-source, with live DEMO.
 
 <br />
 
-## License & Usage
- 
-**The tool is not open-source**. For licenses, please contact [AppSeed](https://appseed.us/?ref=html-parser) - **support [ @ ] appseed.us**
-
-<br />
-
 [Html parser](https://appseed.us/developer-tools/html-parser) **tool** provided by **AppSeed**
